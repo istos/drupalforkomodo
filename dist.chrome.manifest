@@ -1,0 +1,2 @@
+content drupal jar:drupal.jar!/content/ xpcnativewrappers=yes
+overlay chrome://komodo/content/komodo.xul chrome://drupal/content/overlay.xul

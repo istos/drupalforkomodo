@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codeintel version="2.0" file="DrupalDataTypes.cix" description="Generated cix for Drupal data types">
+  <file lang="PHP" mtime="1257123044" path="DrupalDataTypes.cix">
+    <scope ilk="blob" lang="PHP" name="*" id="global">
+      <scope name="DrupalPageType" ilk="class">
+        <variable name="nid"/>
+        <variable name="type"/>
+        <variable name="language"/>
+        <variable name="uid"/>
+        <variable name="status"/>
+        <variable name="created"/>
+        <variable name="changed"/>
+        <variable name="comment"/>
+        <variable name="promote"/>
+        <variable name="moderate"/>
+        <variable name="sticky"/>
+        <variable name="tnid"/>
+        <variable name="translate"/>
+        <variable name="vid"/>
+        <variable name="revision_uid"/>
+        <variable name="title"/>
+        <variable name="body"/>
+        <variable name="teaser"/>
+        <variable name="log"/>
+        <variable name="revision_timestamp"/>
+        <variable name="format"/>
+        <variable name="name"/>
+        <variable name="picture"/>
+        <variable name="data"/>
+        <variable name="path"/>
+        <variable name="last_comment_timestamp"/>
+        <variable name="last_comment_name"/>
+        <variable name="comment_count"/>
+        <variable name="taxonomy"/>
+      </scope>
+      <scope name="DrupalStoryType" ilk="class">
+        <variable name="nid"/>
+        <variable name="type"/>
+        <variable name="language"/>
+        <variable name="uid"/>
+        <variable name="status"/>
+        <variable name="created"/>
+        <variable name="changed"/>
+        <variable name="comment"/>
+        <variable name="promote"/>
+        <variable name="moderate"/>
+        <variable name="sticky"/>
+        <variable name="tnid"/>
+        <variable name="translate"/>
+        <variable name="vid"/>
+        <variable name="revision_uid"/>
+        <variable name="title"/>
+        <variable name="body"/>
+        <variable name="teaser"/>
+        <variable name="log"/>
+        <variable name="revision_timestamp"/>
+        <variable name="format"/>
+        <variable name="name"/>
+        <variable name="picture"/>
+        <variable name="data"/>
+        <variable name="path"/>
+        <variable name="last_comment_timestamp"/>
+        <variable name="last_comment_name"/>
+        <variable name="comment_count"/>
+        <variable name="taxonomy"/>
+      </scope>
+      <scope name="DrupalUser" ilk="class">
+        <variable name="uid"/>
+        <variable name="name"/>
+        <variable name="pass"/>
+        <variable name="mail"/>
+        <variable name="mode"/>
+        <variable name="sort"/>
+        <variable name="threshold"/>
+        <variable name="theme"/>
+        <variable name="signature"/>
+        <variable name="signature_format"/>
+        <variable name="created"/>
+        <variable name="access"/>
+        <variable name="login"/>
+        <variable name="status"/>
+        <variable name="timezone"/>
+        <variable name="language"/>
+        <variable name="picture"/>
+        <variable name="init"/>
+        <variable name="data"/>
+        <variable name="sid"/>
+        <variable name="hostname"/>
+        <variable name="timestamp"/>
+        <variable name="cache"/>
+        <variable name="session"/>
+        <variable name="form_build_id"/>
+        <variable name="roles"/>
+      </scope>
+      <variable name="page" citdl="DrupalPageType"/>
+      <variable name="node" citdl="DrupalPageType"/>
+      <variable name="story" citdl="DrupalStoryType"/>
+      <variable name="account" citdl="DrupalUser"/>
+      <variable name="user" citdl="DrupalUser"/>
+    </scope>
+  </file>
+</codeintel>
