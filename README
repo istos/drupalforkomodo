@@ -1,8 +1,7 @@
-Drupal gen_cix module:
-Cix XML Generator for Komodo Auto-complete
-==========================================
+Drupal extension for Komodo
+===========================
 
-This is module generate a cix file for Komodo auto-complete (node object, user object, etc).
+This is Komodo extension contains: Sample Drupal module, Auto-complete Drupal objects, etc.
 
 
 Project original homepage:
