@@ -4,9 +4,15 @@ Drupal extension for Komodo
 This is Komodo extension contains: Sample Drupal module, Auto-complete Drupal objects, etc.
 
 
+Howto Build?
+1.) git clone https://github.com/nevergone/drupalforkomodo.git and cd drupalforkomodo
+2.) If Komodo istalled /opt/komodo/, then build command: /opt/komodo/lib/sdk/bin/koext build
+3.) Project root directory contain: drupal-VERSION-ko.xpi
+
+
+
 Project original homepage:
 http://firefly.activestate.com/jeffg/drupalforkomodo/wiki/WikiStart
 
 Project original project page:
 http://community.activestate.com/xpi/drupal-extension-komodo
-
